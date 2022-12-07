@@ -1,0 +1,12 @@
+2022-12-08 01:01:27.168 main INFO  subway - [null][AuthenticationPrincipalArgumentResolver nextstep.subway.common.AuthenticationPrincipalConfig.createAuthenticationPrincipalArgumentResolver()] 시작
+2022-12-08 01:01:27.188 main INFO  subway - [null] result = nextstep.subway.auth.ui.AuthenticationPrincipalArgumentResolver@e521067
+2022-12-08 01:01:27.193 main INFO  subway - [null][AuthenticationPrincipalArgumentResolver nextstep.subway.common.AuthenticationPrincipalConfig.createAuthenticationPrincipalArgumentResolver()] 끝 [27(ms)]
+2022-12-08 01:01:27.477 main INFO  subway - [null][void nextstep.subway.common.AuthenticationPrincipalConfig.addArgumentResolvers(List)] 시작
+2022-12-08 01:01:27.478 main INFO  subway - [null] param = []
+2022-12-08 01:01:27.480 main INFO  subway - [null][void nextstep.subway.common.AuthenticationPrincipalConfig.addArgumentResolvers(List)] 끝 [3(ms)]
+2022-12-08 01:02:50.084 main INFO  subway - [8e6bfae1][AuthenticationPrincipalArgumentResolver nextstep.subway.common.AuthenticationPrincipalConfig.createAuthenticationPrincipalArgumentResolver()] 시작
+2022-12-08 01:02:50.105 main INFO  subway - [8e6bfae1] result = nextstep.subway.auth.ui.AuthenticationPrincipalArgumentResolver@1d7c9811
+2022-12-08 01:02:50.106 main INFO  subway - [8e6bfae1][AuthenticationPrincipalArgumentResolver nextstep.subway.common.AuthenticationPrincipalConfig.createAuthenticationPrincipalArgumentResolver()] 끝 [24(ms)]
+2022-12-08 01:02:50.359 main INFO  subway - [8e6bfae1][void nextstep.subway.common.AuthenticationPrincipalConfig.addArgumentResolvers(List)] 시작
+2022-12-08 01:02:50.360 main INFO  subway - [8e6bfae1] param = []
+2022-12-08 01:02:50.360 main INFO  subway - [8e6bfae1][void nextstep.subway.common.AuthenticationPrincipalConfig.addArgumentResolvers(List)] 끝 [1(ms)]
